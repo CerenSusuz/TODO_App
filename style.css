@@ -1,0 +1,14 @@
+#header {
+    color: darkblue;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+a {
+    color: aliceblue;
+}
+
+.container {
+    background-color: cadetblue;
+}
